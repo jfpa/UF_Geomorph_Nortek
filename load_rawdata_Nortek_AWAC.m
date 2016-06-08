@@ -1,4 +1,3 @@
-
 %% Load Nortek data files and store according to waves and currents data
 % This function uses the both ways that the files are converted by the
 %   program used to extract the data directly from the instruments. Vary
